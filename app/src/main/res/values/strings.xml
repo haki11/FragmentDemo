@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">FragmentDemo</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_first_fragment">Hello 1st fragment</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_second_fragment">Hello Second fragment</string>
+
+    <string-array name="values">
+        <item>Adapter implementation</item>
+        <item>Simple List View In Android</item>
+        <item>Create List View Android</item>
+        <item>Android Example</item>
+        <item>List View Source Code</item>
+        <item>List View Array Adapter</item>
+        <item>Android Example List View</item>
+    </string-array>
+</resources>
